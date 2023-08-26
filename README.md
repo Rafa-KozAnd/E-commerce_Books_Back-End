@@ -13,7 +13,7 @@
 - Languages: 'C#';
 - Softwares/Work Tools: 'V.S. Code';
 - Resume: E-commerce of books developed in two repositories, Back-End with C# and Front-End with Angular, made in the DIO platform (https://web.dio.me/play).  
-        ->BackEnd: (https://github.com/Rafa-KozAnd/E-commerce_Books_Back-End); <br>
+        -> BackEnd: (https://github.com/Rafa-KozAnd/E-commerce_Books_Back-End); <br>
         -> FrontEnd: (https://github.com/Rafa-KozAnd/E-commerce_Books_Front-End);.
 - Obs: Example;
 - Version: v.1.0.0
